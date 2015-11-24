@@ -18,3 +18,4 @@ Consistent User Experience
 * 响应式和跨浏览器
 
 ## 完成初级教程
+## walkthrough
