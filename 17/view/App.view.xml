@@ -1,0 +1,12 @@
+<mvc:View
+	controllerName="sap.ui.demo.wt.controller.App"
+	xmlns="sap.m"
+	xmlns:mvc="sap.ui.core.mvc"
+	displayBlock="true">
+	<App class="myAppDemoWT">
+		<Page title="{i18n>homePageTitle}">
+			<mvc:XMLView viewName="sap.ui.demo.wt.view.HelloPanel" />
+		</Page>
+	</App>
+
+</mvc:View>
