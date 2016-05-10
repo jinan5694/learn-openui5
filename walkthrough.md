@@ -28,3 +28,6 @@
 
 2016年5月10日
 重新启动这个学习计划
+
+ctrl + shift + alt + s 可以打开openui5自动调试工具
+router 和 view 是一个组合
