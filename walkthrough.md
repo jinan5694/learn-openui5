@@ -30,4 +30,8 @@
 重新启动这个学习计划
 
 ctrl + shift + alt + s 可以打开openui5自动调试工具
+
 router 和 view 是一个组合
+
+### markdown
+ctrl + shift + p 启动格式预览，之后输入快捷键 ctrl + shift + m 可以打开markdown预览图，这是一个很方便的编辑功能。
