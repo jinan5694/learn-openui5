@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+		<meta charset="UTF-8">
+		<title>SAPUI5 Walkthrough</title>
+	</head>
+	<body id="content">
+	</body>
+    <script
+    id="sap-ui-bootstrap"
+    src="../../resources/sap-ui-core.js"
+    data-sap-ui-theme="sap_bluecrystal"
+    data-sap-ui-libs="sap.m"
+    data-sap-ui-comopatVersion="edge"
+    data-sap-ui-preload="async">
+    </script>
+    <script>
+    sap.ui.getCore().attachInit(function () {
+        new sap.m.Text({text: 'hello world'}).placeAt('content');
+    });
+    </script>
+</html>
